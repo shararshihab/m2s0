@@ -1041,6 +1041,11 @@ document.querySelector(".copy-email").addEventListener("click", async (event) =>
 });
 
 document.querySelector("#current-year").textContent = new Date().getFullYear();
+document.querySelector(".back-to-top")?.addEventListener("click", (event) => {
+  event.preventDefault();
+  window.scrollTo({ top: 0, behavior: "smooth" });
+  history.replaceState(null, "", `${location.pathname}${location.search}`);
+});
 
 let citationBars = [...document.querySelectorAll(".bar-item")];
 const citationYear = document.querySelector("#citation-year");
