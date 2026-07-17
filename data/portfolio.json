@@ -1,0 +1,778 @@
+{
+  "citations": {
+    "total": 39,
+    "hIndex": 4,
+    "i10Index": 2,
+    "yearly": [
+      {
+        "year": "2023",
+        "citations": 2
+      },
+      {
+        "year": "2024",
+        "citations": 11
+      },
+      {
+        "year": "2025",
+        "citations": 17
+      },
+      {
+        "year": "2026",
+        "citations": 8
+      }
+    ]
+  },
+  "publications": [
+    {
+      "year": "2026",
+      "category": "photonics",
+      "title": "Numerical Analysis of Balanced Geometry Selection in Circular PCF-SPR Biosensors for Cancer and Bacterial Detection",
+      "venue": "Optics Continuum, Optica Publishing Group - 5(4), 1115-1141",
+      "role": "First Author",
+      "type": "Journal Article",
+      "stage": "masters",
+      "stageLabel": "Masters - AIUB",
+      "doi": "https://doi.org/10.1364/OPTCON.592405"
+    },
+    {
+      "year": "2026",
+      "category": "photonics",
+      "title": "Unlocking Early Detection: A Highly Sensitive Circular Shaped PCF-Based SPR Biosensor for Breast Cancer",
+      "venue": "Lecture Notes in Networks and Systems, Springer - pp. 512-521",
+      "role": "Fourth Author",
+      "type": "Book Chapter",
+      "stage": "masters",
+      "stageLabel": "Masters - AIUB",
+      "doi": "https://doi.org/10.1007/978-3-032-15346-3_36"
+    },
+    {
+      "year": "2025",
+      "category": "photonics",
+      "title": "Highly Sensitive Dual-Mode PCF-SPR Biosensor for Rapid Detection of PC-12 Adrenal Cancer Cells",
+      "venue": "ICTP25 IEEE Conference",
+      "role": "First Author",
+      "type": "Conference Presentation",
+      "stage": "masters",
+      "stageLabel": "Masters - AIUB"
+    },
+    {
+      "year": "2025",
+      "category": "photonics",
+      "title": "Highly Sensitive Circular PCF-Based SPR Biosensor for Early Blood Cancer Detection",
+      "venue": "COMPASConf25 IEEE Conference",
+      "role": "Corresponding Author",
+      "type": "Conference Presentation",
+      "stage": "masters",
+      "stageLabel": "Masters - AIUB"
+    },
+    {
+      "year": "2025",
+      "category": "photonics",
+      "title": "Long Haul Optical Transmission Using Multi-Channel OAM-PDM Multiplexing over HMMF-FSO Communication System",
+      "venue": "Accepted Springer Conference",
+      "role": "Corresponding Author",
+      "type": "Accepted Conference Paper",
+      "stage": "masters",
+      "stageLabel": "Masters - AIUB"
+    },
+    {
+      "year": "2025",
+      "category": "robotics",
+      "title": "Design and Optimization of an IR-Based Automation System with Telegram Bot Integration for Remote Device Control",
+      "venue": "4th International Conference on Robotics, Electrical and Signal Processing Techniques (ICREST)",
+      "role": "Corresponding Author",
+      "type": "IEEE Conference",
+      "stage": "d2a2i",
+      "stageLabel": "Research Assistant - D2A2I",
+      "doi": "https://doi.org/10.1109/ICREST63960.2025.10914456"
+    },
+    {
+      "year": "2024",
+      "category": "robotics",
+      "title": "Smart Parking System with Optical Character Reading Technology",
+      "venue": "27th International Conference on Computer and Information Technology (ICCIT)",
+      "role": "Corresponding Author",
+      "type": "IEEE Conference",
+      "stage": "d2a2i",
+      "stageLabel": "Research Assistant - D2A2I",
+      "doi": "https://doi.org/10.1109/ICCIT64611.2024.11022496"
+    },
+    {
+      "year": "2024",
+      "category": "robotics",
+      "title": "An IoT-Based Autonomous System for Oil Spill Detection",
+      "venue": "Emerging Science Innovation - Vol. 4, pp. 41-55",
+      "role": "Corresponding Author",
+      "type": "Journal Article",
+      "stage": "d2a2i",
+      "stageLabel": "Research Assistant - D2A2I",
+      "doi": "https://doi.org/10.46604/emsi.2024.13760"
+    },
+    {
+      "year": "2024",
+      "category": "energy",
+      "title": "Design and Performance Analysis of Hydrogen Fuel Cell Vehicles in Bangladesh",
+      "venue": "IEEE PEEIACON",
+      "role": "First Author",
+      "type": "IEEE Conference",
+      "stage": "undergrad",
+      "stageLabel": "Bachelor - AIUB",
+      "doi": "https://doi.org/10.1109/PEEIACON63629.2024.10800351"
+    },
+    {
+      "year": "2024",
+      "category": "robotics",
+      "title": "Cloud-Based Ceiling Robot Assisted Intelligent Warehouse Management System",
+      "venue": "IEEE PEEIACON",
+      "role": "First Author",
+      "type": "IEEE Conference",
+      "stage": "undergrad",
+      "stageLabel": "Bachelor - AIUB",
+      "doi": "https://doi.org/10.1109/PEEIACON63629.2024.10800124"
+    },
+    {
+      "year": "2024",
+      "category": "energy",
+      "title": "Modeling and Analysis of Small-Scale Solar PV and Li-ion Battery-Based Smartgrid System",
+      "venue": "3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE)",
+      "role": "Corresponding Author",
+      "type": "IEEE Conference",
+      "stage": "undergrad",
+      "stageLabel": "Bachelor - AIUB",
+      "doi": "https://doi.org/10.1109/ICAEEE62219.2024.10561824"
+    },
+    {
+      "year": "2023",
+      "category": "energy",
+      "title": "Integrating AE-CNN with Smart Relaying and SSCB for Enhanced Three-Phase Fault Detection and Mitigation",
+      "venue": "10th IEEE International Conference on Power Systems (ICPS)",
+      "role": "Corresponding Author",
+      "type": "IEEE Conference",
+      "stage": "undergrad",
+      "stageLabel": "Bachelor - AIUB",
+      "doi": "https://doi.org/10.1109/ICPS60393.2023.10428989"
+    },
+    {
+      "year": "2023",
+      "category": "energy",
+      "title": "Three Phase Fault Analysis Using Thermal-Magnetic Circuit Breaker and Overcurrent Relay",
+      "venue": "International Conference on ICT for Sustainable Development (ICICT4SD)",
+      "role": "First Author",
+      "type": "IEEE Conference",
+      "stage": "undergrad",
+      "stageLabel": "Bachelor - AIUB",
+      "doi": "https://doi.org/10.1109/ICICT4SD59951.2023.10303432"
+    },
+    {
+      "year": "2022",
+      "category": "energy",
+      "title": "Designing and Manufacturing a Single-Phase Transformer and Analyzing Its Performance",
+      "venue": "Journal of Energy Research and Reviews - 12(4), 30-39",
+      "role": "Corresponding Author",
+      "type": "Journal Article",
+      "stage": "undergrad",
+      "stageLabel": "Bachelor - AIUB",
+      "doi": "https://doi.org/10.9734/JENRR/2022/v12i4246"
+    }
+  ],
+  "projects": [
+    {
+      "category": "Photonics Research",
+      "period": "2024 - Present",
+      "title": "PCF-SPR Biosensor Optimization",
+      "summary": "Modeled sensor geometries, compared refractive-index response, and refined simulation workflows for biosensing research outputs.",
+      "image": "assets/uploads/1784285718945-whatsapp-image-2026-07-17-at-16-53-30.jpeg",
+      "tags": [
+        "COMSOL",
+        "SPR",
+        "Sensor Design"
+      ],
+      "visual": "project-photonics",
+      "meta": "2024 - Present - Optical biosensing",
+      "facts": [
+        [
+          "Role",
+          "Researcher"
+        ],
+        [
+          "Focus",
+          "PCF-SPR sensors"
+        ],
+        [
+          "Tool",
+          "COMSOL"
+        ],
+        [
+          "Application",
+          "Biomedical detection"
+        ]
+      ],
+      "overview": "A photonics research stream focused on circular PCF-SPR biosensor geometry, refractive-index response, and high-sensitivity biomedical detection.",
+      "points": [
+        "Modeled sensor geometries and compared performance trade-offs.",
+        "Built simulation workflows for sensitivity and modal behavior analysis.",
+        "Contributed to journal, conference, and book-chapter research outputs."
+      ],
+      "featured": true
+    },
+    {
+      "category": "Operational AI",
+      "period": "2024 - Present",
+      "title": "Television Rating Point Platform",
+      "summary": "YOLO model refinement, dataset preparation, threshold tuning, Linux device monitoring, IoT reliability, vendor coordination, and systematic issue resolution.",
+      "image": "assets/uploads/1784285703091-whatsapp-image-2026-07-17-at-16-54-22.jpeg",
+      "tags": [
+        "YOLO",
+        "Linux",
+        "IoT"
+      ],
+      "visual": "project-trp",
+      "meta": "2024 - Present - D2A2I applied research",
+      "facts": [
+        [
+          "Role",
+          "Research Assistant Intern"
+        ],
+        [
+          "Focus",
+          "YOLO-based monitoring"
+        ],
+        [
+          "Environment",
+          "Linux, IoT devices"
+        ],
+        [
+          "Institution",
+          "D2A2I, AIUB"
+        ]
+      ],
+      "overview": "A large-scale applied AI and IoT workflow supporting television-rating device monitoring, model improvement, and operational issue analysis.",
+      "points": [
+        "Refined YOLO model behavior through dataset preparation and threshold tuning.",
+        "Used Linux-based monitoring workflows for Raspberry Pi-based devices.",
+        "Analyzed project data to identify recurring technical problems and improvement opportunities."
+      ]
+    },
+    {
+      "category": "Current R&D",
+      "period": "2025 - Present",
+      "title": "Navigotech - AI-Driven Assistive Wheelchair",
+      "summary": "Dataset collection and Roboflow annotation, 3D mechanical design, embedded integration, hardware compatibility checks, assembly, testing, and intern mentorship.",
+      "image": "assets/uploads/1784286051143-indoor-optimized.jpg",
+      "featured": true,
+      "tags": [
+        "Computer Vision",
+        "Fusion 360",
+        "Embedded Systems"
+      ],
+      "visual": "project-wheelchair",
+      "meta": "2025 - Present - Assistive robotics",
+      "facts": [
+        [
+          "Role",
+          "Research & Development"
+        ],
+        [
+          "Focus",
+          "AI navigation"
+        ],
+        [
+          "Tools",
+          "Roboflow, Fusion 360"
+        ],
+        [
+          "Platform",
+          "Embedded robotics"
+        ]
+      ],
+      "overview": "An assistive mobility platform focused on safer intelligent navigation, practical hardware integration, and field-ready system design.",
+      "points": [
+        "Prepared and annotated datasets for object detection workflows.",
+        "Supported 3D mechanical design, assembly planning, and hardware compatibility checks.",
+        "Coordinated testing tasks and mentored interns during prototype development."
+      ]
+    },
+    {
+      "category": "Research Prototype",
+      "period": "2023 - 2024",
+      "title": "Cloud-Based Ceiling Robot for Warehousing",
+      "summary": "Developed and evaluated a ceiling-mounted intelligent warehouse robot, leading to an IEEE publication and follow-on journal research.",
+      "image": "assets/uploads/1784286561894-whatsapp-image-2026-07-17-at-17-08-43.jpeg",
+      "tags": [
+        "Robotics",
+        "Cloud",
+        "Warehouse Automation"
+      ],
+      "visual": "project-warehouse",
+      "meta": "2023 - 2024 - Robotics research",
+      "facts": [
+        [
+          "Role",
+          "First Author"
+        ],
+        [
+          "Output",
+          "IEEE publication"
+        ],
+        [
+          "Focus",
+          "Warehouse automation"
+        ],
+        [
+          "Stack",
+          "Robotics, Cloud"
+        ]
+      ],
+      "overview": "A ceiling-mounted robotic concept for intelligent warehouse support, combining automation, movement planning, and cloud-assisted management.",
+      "points": [
+        "Developed the prototype concept and system workflow.",
+        "Connected the work to a peer-reviewed IEEE conference output.",
+        "Extended the research direction toward intelligent warehouse management."
+      ],
+      "featured": false
+    }
+  ],
+  "education": [
+    {
+      "category": "Masters",
+      "period": "2024 - 2026",
+      "title": "Master of Science in Electrical & Electronic Engineering",
+      "institution": "American International University-Bangladesh",
+      "summary": "CGPA 3.57 - Defense Pending",
+      "image": "assets/uploads/1784285380517-pg-grade-report.png",
+      "visual": "education-masters",
+      "meta": "2024 - 2026 - American International University-Bangladesh",
+      "facts": [
+        [
+          "Institution",
+          "AIUB"
+        ],
+        [
+          "CGPA",
+          "3.55"
+        ],
+        [
+          "Status",
+          "Defense Pending"
+        ],
+        [
+          "Research",
+          "Photonics & biosensing"
+        ]
+      ],
+      "tags": [
+        "PCF-SPR",
+        "Optical Sensors",
+        "COMSOL",
+        "Research Writing"
+      ],
+      "overview": "Graduate study centered on advanced electrical and electronic engineering research with a strong emphasis on photonics, optical biosensors, and simulation-led publication work.",
+      "points": [
+        "Produced multiple masters-stage photonics publications and conference papers.",
+        "Focused on circular PCF-SPR biosensor design for biomedical detection.",
+        "Built technical depth in simulation, manuscript preparation, and research communication."
+      ]
+    },
+    {
+      "category": "Bachelor",
+      "period": "2020 - 2024",
+      "title": "Bachelor of Science in Electrical & Electronic Engineering",
+      "institution": "American International University-Bangladesh",
+      "summary": "CGPA 3.77",
+      "image": "assets/uploads/1783777710990-bsc-eee-m2s0-optimized.jpg",
+      "visual": "education-bachelor",
+      "meta": "Completed 2024 - American International University-Bangladesh",
+      "facts": [
+        [
+          "Institution",
+          "AIUB"
+        ],
+        [
+          "CGPA",
+          "3.77"
+        ],
+        [
+          "Discipline",
+          "EEE"
+        ],
+        [
+          "Research",
+          "Robotics, energy, AI"
+        ]
+      ],
+      "tags": [
+        "EEE\nEmbedded Design"
+      ],
+      "overview": "Undergraduate engineering foundation spanning electrical machines, power systems, robotics, embedded systems, and early research publication experience.",
+      "points": [
+        "Completed research in robotics, smart grid, fault detection, fuel cells, and transformer design.",
+        "Built hands-on engineering experience through design, manufacturing, and system analysis.",
+        "Developed a publication record across IEEE conferences and journal work."
+      ]
+    },
+    {
+      "category": "Recognition",
+      "period": "Four semesters",
+      "title": "Dean's List Honors",
+      "institution": "Academic recognition",
+      "summary": "Recognized across four undergraduate semesters for high academic achievement.",
+      "image": "assets/uploads/1783778256208-deans-award-pic-optimized.jpg",
+      "badge": "",
+      "visual": "education-honors",
+      "meta": "Undergraduate recognition - Four semesters",
+      "facts": [
+        [
+          "Count",
+          "4 semesters"
+        ],
+        [
+          "Type",
+          "Academic honor"
+        ],
+        [
+          "Basis",
+          "High achievement"
+        ],
+        [
+          "Level",
+          "Undergraduate"
+        ]
+      ],
+      "tags": [
+        "Academic Excellence",
+        "Consistency",
+        "Recognition"
+      ],
+      "overview": "Recognition for sustained high academic performance during undergraduate study.",
+      "points": [
+        "Earned Dean's List recognition across four undergraduate semesters.",
+        "Reflects consistent coursework performance alongside project and research activities.",
+        "Supports the academic foundation behind later research momentum."
+      ]
+    },
+    {
+      "category": "Certification",
+      "period": "2023",
+      "title": "Oracle Cloud Infrastructure",
+      "institution": "Oracle Cloud Infrastructure",
+      "summary": "2023 AI Certified Foundations Associate.",
+      "image": "assets/uploads/1783778053942-jpg-certificate-optimized.jpg",
+      "badge": "",
+      "visual": "education-oci",
+      "meta": "2023 - Cloud and AI foundations",
+      "facts": [
+        [
+          "Provider",
+          "Oracle"
+        ],
+        [
+          "Credential",
+          "OCI AI Foundations"
+        ],
+        [
+          "Year",
+          "2023"
+        ],
+        [
+          "Area",
+          "Cloud AI"
+        ]
+      ],
+      "tags": [
+        "Oracle Cloud",
+        "AI Foundations",
+        "Cloud Concepts"
+      ],
+      "overview": "A cloud and AI foundations credential supporting broader knowledge of cloud-based intelligent systems and modern computing infrastructure.",
+      "points": [
+        "Covers introductory cloud AI concepts and Oracle Cloud Infrastructure fundamentals.",
+        "Complements practical work involving cloud-connected robotics and IoT systems.",
+        "Adds formal certification evidence for interdisciplinary engineering capability."
+      ]
+    },
+    {
+      "category": "Education",
+      "period": "2020-2024",
+      "title": "OBE (Outcome-Based Education) Certificate",
+      "institution": "American International University-Bangladesh (AIUB)",
+      "summary": "Program Outcomes (PO) / Program Learning Outcomes (PLO)",
+      "image": "assets/uploads/1783778513372-obe.png",
+      "badge": "",
+      "tags": [
+        "Student ID: 20-44333-3",
+        "OCGPA: 3.7",
+        "Report Date: 30-Oct-2024"
+      ],
+      "meta": "",
+      "overview": "This is a summary of the Outcome-Based Education (OBE) Grade Report for MD. Shihab Sharar Oyon, a student in the Bachelor of Science in Electrical & Electronic Engineering program at American International University-Bangladesh.Student Information",
+      "points": []
+    }
+  ],
+  "gallery": [
+    {
+      "title": "Went to BBS Cable, Gazipur, Bangladesh, as part of an industrial visit from the undergrad program",
+      "description": "They showed the process of making different types of cables. They had a separate R&D section.",
+      "image": "assets/uploads/1784303970806-whatsapp-image-2026-07-17-at-21-33-04-2.jpeg"
+    },
+    {
+      "title": "Speaker of Webinar on Getting Started with LaTeX - Writing, Formatting and Compiling",
+      "description": "I am delighted to share that I had the opportunity to conduct the webinar on 7th November 2025, where I introduced participants to the fundamentals of LaTeX and its applications in academic writing and research manuscripts.\n\nI am deeply honored to have received a Certificate of Appreciation from Prof. Dr. Manzur H. Khan, Proctor of American International University-Bangladesh (AIUB). I would also like to extend my heartfelt thanks to the Office of Student Affairs (OSA), AIUB and the AIUB Research and Development Club for providing me with this valuable opportunity to share my knowledge and interact with enthusiastic learners.",
+      "image": "assets/uploads/1784304751859-whatsapp-image-2026-07-17-at-21-33-05-optimized.jpg"
+    },
+    {
+      "title": "Farewell as R&D Advisor from AIUB Research and Development Club (AIUBR&DC)",
+      "description": "During my tenure, I had the opportunity to organize 3 research workshops titled \n\n1. \"How to secure an Erasmus Mundus scholarship\" by Md. Shadman Shakif Bhuiyan (Erasmus Scholar, AIUB Alumni) on 8 September 2025\n2. \"Workshop on Arduino Microcontroller\" by Prof. Dr. Muhibul Haque Bhuyan on 11 September 2025\n3. \"Semiconductor device modeling & other prospects of Comsol multiphysics\" by Dr. Kabiruzzaman on 23 April 2026,\n\nconduct a webinar titled \"Getting started with LaTeX - Writing, Formatting and Compiling\" on 7 November 2025, \n\nand lead weekly research learning sessions every Thursday, where I shared the fundamentals of academic research from reading and writing research papers to crafting abstracts and developing a research mindset.",
+      "image": "assets/uploads/1784304889148-whatsapp-image-2026-07-17-at-21-32-59-1.jpeg"
+    },
+    {
+      "title": "Selected from American International University-Bangladesh to attend the 2024â€“2025 National Science and Technology (NST) Fellowship Research Seminar, organized by the Ministry of Science and Technology (MoST) at the Novotheatre, Tejgaon, Dhaka, on 7â€“8 June 2026.",
+      "description": "The seminar was an excellent platform for learning, exchanging knowledge, and connecting with researchers, academicians, and students from different fields of science and technology. The inaugural session by Md. Anowar Hossain, Secretary of MoST, offered valuable insights into the importance of research and innovation in national development.",
+      "image": "assets/uploads/1784305035774-1781337089895.jfif"
+    },
+    {
+      "title": "Captured a moment with Dr Muhammad Imadur Rahman, Managing Director and CEO of Bangladesh Satellite Company Limited (BSCL).",
+      "description": "Along with him, the whole team from the TRP project visited our Dr. Anwarul Abedin Institute of Innovation (D2A2I) lab on May 24, 2025.",
+      "image": "assets/uploads/1784305316164-whatsapp-image-2026-07-17-at-21-33-03-1.jpeg"
+    },
+    {
+      "title": "Conducted a Day-Long Training Program on the TRP Device Deployment Portal",
+      "description": "On 11th March 2025, I was privileged to lead an intensive training session on the Television Rating Point (TRP) Device Deployment Portal for SRCBD in collaboration with BSCL.\nThe session covered key functionalities, best practices, and hands-on demonstrations to ensure seamless deployment and operation of TRP devices. We are grateful for the active participation and insightful discussions from all attendees!",
+      "image": "assets/uploads/1784305615618-1748335920210.jfif"
+    },
+    {
+      "title": "Completed the Duke of Edinburgh's International Award Program",
+      "description": "It marked a significant phase in my professional development. The program's rigorous framework enabled me to cultivate leadership through adventurous expeditions, refine research and writing skills through academic projects, and strengthen community engagement via volunteer initiatives. With disciplined physical training complementing these efforts, I achieved the maximum of my objectives while developing core competencies in strategic planning, team management, and data analysis. This structured experience has equipped me with transferable skills, particularly valuable for organizational leadership and complex project execution.",
+      "image": "assets/uploads/1784305803700-whatsapp-image-2026-07-17-at-21-33-04.jpeg"
+    },
+    {
+      "title": "Presented at the ICAEEE Conference",
+      "description": "I had the privilege of presenting our paper titled â€œModeling and Analysis of Small-Scale Solar PV and Li-ion Battery-based Smartgrid Systemâ€ at the 2024 3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE), held in Dhaka University of Engineering & Technology, Gazipur, Bangladesh.",
+      "image": "assets/uploads/1784305929621-whatsapp-image-2026-07-17-at-21-32-32.jpeg"
+    },
+    {
+      "title": "Attended ICICT4SD 2023 Gala dinner and captured a moment with Prof. Dr. Abdur Rahman, Pro VC, AIUB",
+      "description": "It was the first conference that I attended as the lead, corresponding and presenting author. The paper title was \"Three Phase Fault Analysis Using Thermal-Magnetic Circuit Breaker and Overcurrent Relay\". DOI: https://doi.org/10.1109/ICICT4SD59951.2023.10303432. The paper was under the supervision of Abu Shufian, Lecturer, AIUB",
+      "image": "assets/uploads/1784303718143-whatsapp-image-2026-07-17-at-21-33-05-1.jpeg"
+    },
+    {
+      "title": "A moment from my capstone project defence",
+      "description": "Present our team's innovative ceiling-based warehouse management system during the final defense of our undergraduate capstone project under the supervision of Dr. Mohammad Nasir Uddin, P.Eng, Professor of the EEE Deptartment. Our solution optimizes space utilization and enhances inventory management efficiency with the auto-steering of the robot.",
+      "image": "assets/uploads/1784306202593-whatsapp-image-2026-07-17-at-22-35-56.jpeg"
+    },
+    {
+      "title": "Attended International Fire, safety and security expo 2022",
+      "description": "Also attended the seminar on Chemical Hazards and Required Initiative organized by ESSAB (Electronics Safety and Security Association of Bangladesh) at BICC(Bangabandhu International Convention Center). Thanks ESSAB for the gifts. There I visited a booth of FSM(Fire and Safety Management) which is owned by one of my friends Mashoor Faisal and his father.",
+      "image": "assets/uploads/1784306296247-1669390875565.jfif"
+    },
+    {
+      "title": "Captured a moment from my Thursday Session from AIUBR&DC",
+      "description": "",
+      "image": "assets/uploads/1784306446969-whatsapp-image-2026-07-17-at-21-32-58.jpeg"
+    },
+    {
+      "title": "Attended the ICREST Conference 2025",
+      "description": "",
+      "image": "assets/uploads/1784306615046-whatsapp-image-2026-07-17-at-21-32-59.jpeg"
+    },
+    {
+      "title": "A moment from the Dr. Anwarul Abedin Institute of Innovation (D2A2I) center.",
+      "description": "",
+      "image": "assets/uploads/1784306701857-whatsapp-image-2026-07-17-at-21-31-52.jpeg"
+    },
+    {
+      "title": "Attended the ICPS 2023 Conference at Cox's Bazar, Bangladesh",
+      "description": "",
+      "image": "assets/uploads/1784307425868-whatsapp-image-2026-07-17-at-21-33-03.jpeg"
+    },
+    {
+      "title": "Attended the IEEE PEEIACON 2025 conference",
+      "description": "",
+      "image": "assets/uploads/1784307653155-whatsapp-image-2026-07-17-at-21-32-59-2.jpeg"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "IELTS Score",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784310547335-bd05024502237-16-11-2024-etrf-page-0001.jpg"
+    },
+    {
+      "title": "OBE Grade Report",
+      "type": "Academic Record",
+      "description": "Outcome-Based Education grade report for Bachelor of Science in Electrical and Electronic Engineering.",
+      "image": "assets/uploads/1783778513372-obe.png"
+    },
+    {
+      "title": "Medium of Instruction (MOI)",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784310709655-moi-aiub-page-0001-optimized.jpg"
+    },
+    {
+      "title": "Undergrad Certificate (BSc in EEE)",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784310161710-bsc-eee-m2s0-optimized.jpg"
+    },
+    {
+      "title": "Dean's List Honors",
+      "type": "Academic Certificate",
+      "description": "Recognition across four undergraduate semesters for sustained academic achievement.",
+      "image": "assets/uploads/1783778256208-deans-award-pic-optimized.jpg"
+    },
+    {
+      "title": "Presenter Certificate from 10th ICPS 2023",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784311380967-pid-71-page-0001-optimized.jpg"
+    },
+    {
+      "title": "Presenter Certificate from ICICT4SD 2023 Conference",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784311980380-certificate.jpeg"
+    },
+    {
+      "title": "IEEE Membership Certificate",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784312467303-memieee500-page-0001.jpg"
+    },
+    {
+      "title": "Gold Standard of The Duke of Edinburgh's International Award",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784310019615-certificate2-optimized.jpg"
+    },
+    {
+      "title": "Oracle Cloud Infrastructure",
+      "type": "Professional Certificate",
+      "description": "Oracle Cloud Infrastructure AI Certified Foundations Associate credential.",
+      "image": "assets/uploads/1783778053942-jpg-certificate-optimized.jpg"
+    },
+    {
+      "title": "Attendance Certificate from Seminar on Role of Renewable Energies in the sustainable growth of Bangladesh power sector",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784310871210-seminar-on-role-of-renewable-energies-in-the-sustainable-growth-of-bangladesh-power-sector.jpg"
+    },
+    {
+      "title": "Attendance Certificate from Seminar on Chemical Hazards and Required Initiative ",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784310892196-seminar-on-chemical-hazards-and-required-initiative.jpg"
+    },
+    {
+      "title": "Attendance certificate of  Nanotechnology and Fourth Industrial Revolution ",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784310910977-nanotechnology-certificate-optimized.jpg"
+    },
+    {
+      "title": "Attendance Certificate from Industrial Automation and Project Career Workshop",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784311108878-industrial-automation-and-project-career-certificate-page-0001-optimized.jpg"
+    },
+    {
+      "title": "Attendance Certificate from AWS CLOUD DAY",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784311213263-aws-cloud-day-page-0001-optimized.jpg"
+    },
+    {
+      "title": "Attendance Certificate from Antenna Design In CST Microwave Workshop",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784311285072-antenna-design-in-cst-microwave-page-0001-optimized.jpg"
+    },
+    {
+      "title": "ESAB Membership Certificate",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784309911715-member-certificate-md-shihab-sharar-oyon-1-optimized.jpg"
+    },
+    {
+      "title": "Higher Secondary Certificate (HSC)",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784310260753-hsc-certificate.jpg"
+    },
+    {
+      "title": "Secondary School Certificate (SSC)",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784310335773-ssc-certificate.jpg"
+    },
+    {
+      "title": "Junior School Certificate (JSC)",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784310423592-jsc-certificate-optimized.jpg"
+    },
+    {
+      "title": "Primary School Certificate (PSC)",
+      "type": "Certificate",
+      "description": "",
+      "image": "assets/uploads/1784310442252-psc-certificate-optimized.jpg"
+    }
+  ],
+  "skills": [
+    {
+      "title": "Programming",
+      "items": "Python - C - C++ - Bash - LaTeX"
+    },
+    {
+      "title": "Simulation",
+      "items": "COMSOL Multiphysics - MATLAB - Simulink - Multisim"
+    },
+    {
+      "title": "Embedded & Edge",
+      "items": "Arduino - ESP - Raspberry Pi - Jetson Orin Nano"
+    },
+    {
+      "title": "AI & Vision",
+      "items": "YOLO - Roboflow - Annotation - Training - Testing - Threshold Tuning"
+    },
+    {
+      "title": "Mechanical Design",
+      "items": "AutoCAD - SolidWorks - Autodesk Fusion 360"
+    },
+    {
+      "title": "Systems",
+      "items": "Linux - Docker - Containers - Kubernetes fundamentals - Networking - IoT monitoring"
+    }
+  ],
+  "experience": [
+    {
+      "period": "Sep 2024 - Present",
+      "title": "Research Assistant - R&D",
+      "institution": "D2A2I, American International University-Bangladesh",
+      "link": "https://d2a2i.aiub.edu/project-bscl.html",
+      "status": "Current",
+      "points": [
+        "Coordinate technical and administrative workflows, workload distribution, procurement, and delivery follow-up.",
+        "Provide technical oversight across IoT systems, computer vision, AI-driven applications, and research equipment.",
+        "Contribute to algorithm refinement, cost reduction, technical reports, presentations, and research manuscripts."
+      ]
+    },
+    {
+      "period": "Feb 2024 - Aug 2024",
+      "title": "Research Assistant Intern - R&D",
+      "institution": "D2A2I, American International University-Bangladesh",
+      "link": "https://d2a2i.aiub.edu/project-bscl.html",
+      "points": [
+        "Analyzed large-scale TRP project data to identify technical challenges and improvement opportunities.",
+        "Used Linux-based monitoring workflows for Raspberry Pi-based television-rating devices."
+      ]
+    },
+    {
+      "period": "Apr 2025 - Mar 2026",
+      "title": "R&D Advisor",
+      "institution": "AIUB Research for Development Club",
+      "summary": "Advised student-led research and development activities, helping translate ideas into structured technical work.",
+      "points": []
+    }
+  ]
+}
